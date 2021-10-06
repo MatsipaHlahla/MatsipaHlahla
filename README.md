@@ -16,3 +16,5 @@ Fav links:
   https://emojipedia.org/zipper-mouth-face/
   
   https://emoji-api.com/emojis?access_key=a577ee781af826e902af69f7e9eadd270fb135dc
+  
+  https://emoji-api.com/#examples
